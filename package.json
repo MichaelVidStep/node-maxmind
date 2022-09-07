@@ -1,7 +1,7 @@
 {
-  "name": "maxmind",
+  "name": "@vidstep/maxmind",
   "version": "0.0.0-development",
-  "homepage": "https://github.com/runk/node-maxmind",
+  "homepage": "https://github.com/MichaelVidStep/node-maxmind",
   "description": "IP lookup using Maxmind databases",
   "keywords": [
     "maxmind",
@@ -47,11 +47,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/runk/node-maxmind.git"
+    "url": "https://github.com/MichaelVidStep/node-maxmind.git"
   },
   "bugs": {
     "mail": "deadrunk@gmail.com",
-    "url": "http://github.com/runk/node-maxmind/issues"
+    "url": "http://github.com/MichaelVidStep/node-maxmind/issues"
   },
   "files": [
     "lib"
